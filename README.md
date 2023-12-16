@@ -10,18 +10,12 @@ Assignment_X: Each assignment is organized into separate directories for clarity
 # Technologies Used
 Throughout the course, I've utilized a variety of tools and technologies, including but not limited to:
 
-Mysql
-PowerBI
-Microsoft Excel
-Snowflake
-Tableau
-Python
-Jupyter Notebooks
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
+#Mysql 		
+#PowerBI 
+#Microsoft Excel 
+#Snowflake 
+#Tableau 
+#Python 
 
 # How to Use This Repository
 Feel free to explore the assignments and dive into the code and documentation. The repository is structured to provide a straightforward overview of each assignment. If you have any questions or feedback, please don't hesitate to reach out.
